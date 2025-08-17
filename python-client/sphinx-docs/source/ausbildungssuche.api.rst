@@ -9,13 +9,13 @@ ausbildungssuche.api.default\_api module
 
 .. automodule:: ausbildungssuche.api.default_api
    :members:
-   :undoc-members:
    :show-inheritance:
+   :undoc-members:
 
 Module contents
 ---------------
 
 .. automodule:: ausbildungssuche.api
    :members:
-   :undoc-members:
    :show-inheritance:
+   :undoc-members:

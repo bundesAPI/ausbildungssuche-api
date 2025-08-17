@@ -20,45 +20,45 @@ ausbildungssuche.api\_client module
 
 .. automodule:: ausbildungssuche.api_client
    :members:
-   :undoc-members:
    :show-inheritance:
+   :undoc-members:
 
 ausbildungssuche.configuration module
 -------------------------------------
 
 .. automodule:: ausbildungssuche.configuration
    :members:
-   :undoc-members:
    :show-inheritance:
+   :undoc-members:
 
 ausbildungssuche.exceptions module
 ----------------------------------
 
 .. automodule:: ausbildungssuche.exceptions
    :members:
-   :undoc-members:
    :show-inheritance:
+   :undoc-members:
 
 ausbildungssuche.model\_utils module
 ------------------------------------
 
 .. automodule:: ausbildungssuche.model_utils
    :members:
-   :undoc-members:
    :show-inheritance:
+   :undoc-members:
 
 ausbildungssuche.rest module
 ----------------------------
 
 .. automodule:: ausbildungssuche.rest
    :members:
-   :undoc-members:
    :show-inheritance:
+   :undoc-members:
 
 Module contents
 ---------------
 
 .. automodule:: ausbildungssuche
    :members:
-   :undoc-members:
    :show-inheritance:
+   :undoc-members:
